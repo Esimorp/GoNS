@@ -1,0 +1,2 @@
+# GoNS
+Golang DNS Server
